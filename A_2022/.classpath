@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/gson-2.10.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/gson-2.10.1-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/gson-2.10.1-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/javax.servlet-api-3.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/javax.servlet-api-3.1.0-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/javax.servlet-api-3.1.0-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-client-9.4.38.v20210224.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-client-9.4.38.v20210224-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-client-9.4.38.v20210224-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-http-9.4.38.v20210224.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-http-9.4.38.v20210224-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-http-9.4.38.v20210224-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-io-9.4.38.v20210224.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-io-9.4.38.v20210224-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-io-9.4.38.v20210224-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-security-9.4.38.v20210224.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-security-9.4.38.v20210224-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-security-9.4.38.v20210224-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-server-9.4.38.v20210224.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-server-9.4.38.v20210224-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-server-9.4.38.v20210224-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-servlet-9.4.38.v20210224.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-servlet-9.4.38.v20210224-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-servlet-9.4.38.v20210224-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-util-9.4.38.v20210224.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-util-9.4.38.v20210224-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-util-9.4.38.v20210224-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-util-ajax-9.4.38.v20210224.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-util-ajax-9.4.38.v20210224-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/84008/Desktop/0507연습/sp_java_test_23/lib/jetty-util-ajax-9.4.38.v20210224-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
